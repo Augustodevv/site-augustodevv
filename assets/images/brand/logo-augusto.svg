@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Augusto Novaes">
+  <defs>
+    <linearGradient id="placa" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1677ff"/>
+      <stop offset=".55" stop-color="#0f4fa8"/>
+      <stop offset="1" stop-color="#0a2b52"/>
+    </linearGradient>
+    <linearGradient id="brilho" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#0a1017"/>
+  <rect x="5" y="5" width="118" height="118" rx="26" fill="url(#placa)"/>
+  <rect x="5" y="5" width="118" height="62" rx="26" fill="url(#brilho)"/>
+  <rect x="5" y="5" width="118" height="118" rx="26" fill="none" stroke="#7fd3ff" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M36 98 62 30h11l26 68H83l-5.5-15.5H57.5L52 98Z" fill="#f4fbff"/>
+  <path d="M62 70h19l-9.5-27Z" fill="#38bdf8"/>
+  <path d="M94 22h16M94 22v16" stroke="#9fe3ff" stroke-width="5" stroke-linecap="square" fill="none" opacity=".9"/>
+</svg>
