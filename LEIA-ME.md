@@ -68,7 +68,7 @@ assets/images/brand/logo-augusto.svg    logo
 - **WhatsApp:** (12) 99600-1610 · [wa.me/5512996001610](https://wa.me/5512996001610)
 - **E-mail:** augustonovaes25@gmail.com
 - **LinkedIn:** [linkedin.com/in/augustonovaesdev](https://www.linkedin.com/in/augustonovaesdev)
-- **Portfólio:** [augustodev.com](https://www.augustodev.com)
+- **Portfólio:** [augustodevv.github.io/site-augustodevv](https://augustodevv.github.io/site-augustodevv/)
 
 ---
 
